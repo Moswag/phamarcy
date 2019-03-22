@@ -1,2 +1,2 @@
-A Laravel Pharmacy System
+A Laravel Pharmacy System for Stock Management
 
